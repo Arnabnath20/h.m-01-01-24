@@ -1,0 +1,29 @@
+body{
+	margin: 5;
+	padding: 5;
+	background:  #cce7ff;
+}
+
+
+h1{
+	border: 8px solid; green ;
+
+	background-color: skyblue;
+}
+h2{
+	color:green;
+}
+p{
+	 font-size: 30px;
+	 color: blue;
+		
+	
+	}
+
+.header {
+  padding: 10px;
+  text-align: right;
+  background: #1abc9c;
+  color: black;
+  font-size:20px;
+}
